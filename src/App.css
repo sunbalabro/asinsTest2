@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+body{
+  background: rgb(51,1,79);
+background: linear-gradient(90deg, rgba(51,1,79,1) 0%, rgba(116,26,150,1) 48%, rgba(226,0,255,1) 100%);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

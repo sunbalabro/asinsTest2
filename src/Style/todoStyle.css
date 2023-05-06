@@ -1,0 +1,19 @@
+.todoContainer{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 60px;
+    background-color: white;
+    border-radius: 10px;
+}
+.todoContainer h1{
+    color: #7A199C;
+}
+td.ant-table-cell {
+    font-size: 20px;
+}
+.todoContainer button{
+    width: 50px;
+    height: 50px;
+    border: none;
+}
