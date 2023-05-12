@@ -11,6 +11,8 @@
 }
 td.ant-table-cell {
     font-size: 20px;
+    word-wrap: break-word;
+    word-break: break-all;
 }
 .todoContainer button{
     width: 50px;

@@ -109,7 +109,6 @@ export const ListOfTodos = ({ todo, setTodo }) => {
     }
   };
   
-  const [count, setCount] = useState(2);
   const handleDelete = (id) => {
     const newData = dataSource.filter((item) => item.id !== id);
     setDataSource(newData);
